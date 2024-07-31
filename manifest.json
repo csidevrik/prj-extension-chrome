@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name": "EMOV ORDER EXTENSION",
+    "version": "1.0",
+    "description":"Emov extension",
+    "icons":{
+        "128":"octaba.png"
+    },
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
